@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-scripts": "^3.4.0",
+    "react-weathericons": "^1.0.4"
+  }
+}
